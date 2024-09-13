@@ -1,88 +1,64 @@
+# README for NATO Phonetic Alphabet Converter
 
-# NATO Phonetic Alphabet App
+## Overview
 
-Welcome to the NATO Phonetic Alphabet App! This application is designed to help you communicate words clearly over the phone by converting them into the NATO phonetic alphabet. It’s a handy tool for ensuring accurate communication, especially in situations where clarity is crucial.
+The NATO Phonetic Alphabet Converter is a simple tool designed to convert text into the NATO phonetic alphabet. This can be useful for various applications where clarity in spoken communication is crucial.
 
-## Features
+## System Requirements
 
-- **Phonetic Conversion**: Convert any word into its NATO phonetic alphabet equivalent.
-- **Interactive Lookup**: Easily look up the phonetic code for each letter.
-- **Data Management**: Utilize pandas for efficient handling and display of phonetic data.
-- **Dictionary Comprehension**: Leverage dictionary comprehension for concise code.
+- **Operating System**: Windows 7, Windows 8, Windows 10, or Windows 11
+- **Processor**: Intel Pentium 4 or later
+- **Memory**: 512 MB RAM minimum
+- **Disk Space**: 10 MB of free disk space
+- **Software**: Windows Installer (included with Windows operating systems)
 
-## Getting Started
+## Installation Instructions
 
-Follow these steps to set up and use the NATO Phonetic Alphabet App:
+1. **Download the Installer**:
+   Download the `setup.exe` file from the provided source or from your download location.
 
-### Prerequisites
+2. **Run the Installer**:
+   - Double-click the `setup.exe` file to start the installation process.
+   - If prompted by User Account Control (UAC), click **Yes** to allow the installer to make changes to your device.
 
-- Python 3.x
-- PyCharm (or any Python IDE)
-- Required libraries: `pandas`
+3. **Follow the Setup Wizard**:
+   - The installer will launch a setup wizard. Follow the on-screen instructions to complete the installation.
+   - You can choose the installation directory or use the default location (`C:\Program Files\NATO Phonetic Alphabet`).
+   - You will also have the option to create shortcuts in the Start Menu and on the Desktop.
 
-### Run the Application
+4. **Complete Installation**:
+   - Click **Install** to begin the installation process. Once complete, click **Finish** to exit the setup wizard.
 
-   Open the project in PyCharm or your preferred Python IDE. Locate the `main.py` file and run it to start the application.
+## How to Use the Application
 
- 
-   python main.py
-  
+1. **Launch the Application**:
+   - Open the application from the Start Menu or by using the shortcut created on your Desktop.
 
-## How It Works
+2. **Enter Text**:
+   - In the application window, enter the text you want to convert into the NATO phonetic alphabet.
 
-### Phonetic Conversion
+3. **View Results**:
+   - The converted text will be displayed in the application window. 
 
-The app uses a dictionary comprehension to create a mapping of the NATO phonetic alphabet. When you enter a word, the app converts each letter into its corresponding phonetic code.
+4. **Access Help**:
+   - Click the **Info** button on the application window to open a pop-up with instructions on how to use the application and information about the NATO phonetic alphabet.
 
-Here’s a simplified example of the dictionary used in the app:
+## Uninstallation Instructions
 
-```python
-nato_alphabet = {letter: code for letter, code in [
-    ("A", "Alfa"), ("B", "Bravo"), ("C", "Charlie"), ("D", "Delta"),
-    ("E", "Echo"), ("F", "Foxtrot"), ("G", "Golf"), ("H", "Hotel"),
-    ("I", "India"), ("J", "Juliett"), ("K", "Kilo"), ("L", "Lima"),
-    ("M", "Mike"), ("N", "November"), ("O", "Oscar"), ("P", "Papa"),
-    ("Q", "Quebec"), ("R", "Romeo"), ("S", "Sierra"), ("T", "Tango"),
-    ("U", "Uniform"), ("V", "Victor"), ("W", "Whiskey"), ("X", "X-ray"),
-    ("Y", "Yankee"), ("Z", "Zulu")
-]}
-```
+1. **Access Uninstall Options**:
+   - Open the **Control Panel**.
+   - Navigate to **Programs** > **Programs and Features**.
 
-### Using the App
-
-1. **Enter a Word:**
-   - Type in any word you want to communicate clearly over the phone.
-
-2. **View Phonetic Alphabet:**
-   - The app will display the word converted into the NATO phonetic alphabet, where each letter is represented by its phonetic code.
-
-### Example
-
-For the word "HELLO", the app will convert it to:
-
-```
-H: Hotel
-E: Echo
-L: Lima
-L: Lima
-O: Oscar
-```
-
-This way, you can clearly communicate each letter of the word over the phone using the phonetic codes.
-
-## Data Management with Pandas
-
-Pandas is used to handle and display the NATO phonetic alphabet data. Here’s a basic example of creating a DataFrame for the phonetic alphabet:
-
-## Contributing
-
-We welcome contributions to the project! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
+2. **Uninstall the Application**:
+   - Find **NATO Phonetic Alphabet Converter** in the list of installed programs.
+   - Select it and click **Uninstall**.
+   - Follow the on-screen instructions to remove the application from your system.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This software is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+## Acknowledgments
 
-Enjoy clear and precise communication with the NATO Phonetic Alphabet App!
-
+- This application uses the NATO phonetic alphabet for text conversion.
+- Developed by Hari Ravendran
