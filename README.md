@@ -18,7 +18,7 @@ The NATO Phonetic Alphabet Converter is a simple tool designed to convert text i
    Download the `setup.exe` file from the provided source or from your download location.
 
 2. **Run the Installer**:
-   - Double-click the `setup.exe` file to start the installation process.
+   - Double-click the `setup.exe` file.
    - If prompted by User Account Control (UAC), click **Yes** to allow the installer to make changes to your device.
 
 3. **Follow the Setup Wizard**:
