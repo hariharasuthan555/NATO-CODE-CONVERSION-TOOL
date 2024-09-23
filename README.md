@@ -4,6 +4,8 @@
 
 The NATO Phonetic Alphabet Converter is a simple tool designed to convert text into the NATO phonetic alphabet. This can be useful for various applications where clarity in spoken communication is crucial.
 
+![demo](https://github.com/user-attachments/assets/1f0330c2-5938-4fdb-b427-22cdae857994)
+
 ## System Requirements
 
 - **Operating System**: Windows 7, Windows 8, Windows 10, or Windows 11
