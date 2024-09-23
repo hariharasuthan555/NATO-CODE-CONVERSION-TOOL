@@ -58,7 +58,7 @@ The NATO Phonetic Alphabet Converter is a simple tool designed to convert text i
 
 ## License
 
-This software is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This software is licensed under the MIT License.
 
 ## Acknowledgments
 
